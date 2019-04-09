@@ -5,7 +5,7 @@ class App extends Component {
     super();
     this.state = {
       response: 0,
-      endpoint: 'http://127.0.0.1:5000',
+      endpoint: '/',
       room: 'global',
       newRoom: 'global',
       text: 0
